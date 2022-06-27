@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/GITHUB/Encargalo-Cliente/app/src/main/res/layout/activity_confirmar_pedido.xml" value="0.33" />
+        <entry key="..\:/GITHUB/Encargalo-Cliente/app/src/main/res/layout/activity_detalle_pedido.xml" value="0.67" />
+        <entry key="..\:/GITHUB/Encargalo-Cliente/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/GITHUB/Encargalo-Cliente/app/src/main/res/layout/activity_menuinicio.xml" value="0.36666666666666664" />
+        <entry key="..\:/GITHUB/Encargalo-Cliente/app/src/main/res/layout/activity_mi_pedido.xml" value="0.25" />
+        <entry key="..\:/GITHUB/Encargalo-Cliente/app/src/main/res/layout/activity_mostrar_productos_tienda.xml" value="0.25" />
+        <entry key="..\:/GITHUB/Encargalo-Cliente/app/src/main/res/layout/activity_registro.xml" value="0.25" />
+        <entry key="..\:/GITHUB/Encargalo-Cliente/app/src/main/res/layout/activity_verificar.xml" value="0.36666666666666664" />
+        <entry key="..\:/GITHUB/Encargalo-Cliente/app/src/main/res/layout/app_bar_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/GITHUB/Encargalo-Cliente/app/src/main/res/layout/content_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/GITHUB/Encargalo-Cliente/app/src/main/res/layout/fragment_categoria.xml" value="0.20416666666666666" />
+        <entry key="..\:/GITHUB/Encargalo-Cliente/app/src/main/res/layout/fragment_chat.xml" value="0.36666666666666664" />
+        <entry key="..\:/GITHUB/Encargalo-Cliente/app/src/main/res/layout/fragment_home.xml" value="0.36666666666666664" />
+        <entry key="..\:/GITHUB/Encargalo-Cliente/app/src/main/res/layout/fragment_membresia.xml" value="0.36666666666666664" />
+        <entry key="..\:/GITHUB/Encargalo-Cliente/app/src/main/res/layout/fragment_menu_publicidad.xml" value="0.36666666666666664" />
+        <entry key="..\:/GITHUB/Encargalo-Cliente/app/src/main/res/layout/fragment_mis_pedidos.xml" value="0.36666666666666664" />
+        <entry key="..\:/GITHUB/Encargalo-Cliente/app/src/main/res/layout/fragment_misanuncios.xml" value="0.36666666666666664" />
+        <entry key="..\:/GITHUB/Encargalo-Cliente/app/src/main/res/layout/fragment_notificaciones.xml" value="0.36666666666666664" />
+        <entry key="..\:/GITHUB/Encargalo-Cliente/app/src/main/res/layout/fragment_pago_publicidad.xml" value="0.20416666666666666" />
+        <entry key="..\:/GITHUB/Encargalo-Cliente/app/src/main/res/layout/fragment_perfil.xml" value="0.36666666666666664" />
+        <entry key="..\:/GITHUB/Encargalo-Cliente/app/src/main/res/layout/fragment_perfil_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/GITHUB/Encargalo-Cliente/app/src/main/res/layout/fragment_promociones.xml" value="0.36666666666666664" />
+        <entry key="..\:/GITHUB/Encargalo-Cliente/app/src/main/res/layout/fragment_publicidad.xml" value="0.33" />
+        <entry key="..\:/GITHUB/Encargalo-Cliente/app/src/main/res/layout/fragment_slideshow.xml" value="0.36666666666666664" />
+        <entry key="..\:/GITHUB/Encargalo-Cliente/app/src/main/res/layout/fragment_terminos_condiciones.xml" value="0.20416666666666666" />
+        <entry key="..\:/GITHUB/Encargalo-Cliente/app/src/main/res/layout/item_list_detallepedido.xml" value="0.36666666666666664" />
+        <entry key="..\:/GITHUB/Encargalo-Cliente/app/src/main/res/layout/item_list_hispedidos.xml" value="0.36666666666666664" />
+        <entry key="..\:/GITHUB/Encargalo-Cliente/app/src/main/res/layout/item_list_productos.xml" value="0.36666666666666664" />
+        <entry key="..\:/GITHUB/Encargalo-Cliente/app/src/main/res/layout/list_listado.xml" value="0.5" />
+        <entry key="..\:/Users/Sistemas/Downloads/Nueva carpeta (2)/Encargalo-Cliente/app/src/main/res/drawable/btn_anuncio_principal.xml" value="0.167" />
+        <entry key="..\:/Users/Sistemas/Downloads/Nueva carpeta (2)/Encargalo-Cliente/app/src/main/res/layout/content_main.xml" value="0.264" />
+        <entry key="..\:/Users/Sistemas/Downloads/Nueva carpeta (2)/Encargalo-Cliente/app/src/main/res/layout/fragment_misanuncios.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sistemas/Downloads/Nueva carpeta (2)/Encargalo-Cliente/app/src/main/res/menu/menuinicio.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Sistemas/Downloads/Nueva carpeta (2)/Encargalo-Cliente/app/src/main/res/xml/mypreference.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

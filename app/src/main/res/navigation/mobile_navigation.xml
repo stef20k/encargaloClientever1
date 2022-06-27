@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_comprar">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.cliente2.ui.home.HomeFragment"
+        android:label="Inicio"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_mi_perfil"
+        android:name="com.example.cliente2.ui.gallery.GalleryFragment"
+        android:label="Mi Perfil"
+        tools:layout="@layout/fragment_perfil" />
+
+    <fragment
+        android:id="@+id/nav_comprar"
+        android:name="com.example.cliente2.ui.slideshow.SlideshowFragment"
+        android:label="Comprar"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_mis_pedidos"
+        android:name="com.example.cliente2.MisPedidosFragment"
+        android:label="Historial de Pedidos"
+        tools:layout="@layout/fragment_mis_pedidos" />
+    <fragment
+        android:id="@+id/nav_estadisticas"
+        android:name="com.example.cliente2.EstadisticasFragment"
+        android:label="Estadísticas"
+        tools:layout="@layout/fragment_estadisticas" />
+    <fragment
+        android:id="@+id/nav_notificaciones"
+        android:name="com.example.cliente2.NotificacionesActivity"
+        android:label="Notificaciones"
+        tools:layout="@layout/fragment_notificaciones" />
+    <fragment
+        android:id="@+id/nav_ajustes"
+        android:name="com.example.cliente2.AjustesActivity"
+        android:label="Ajustes"
+        tools:layout="@layout/fragment_ajustes" />
+    <fragment
+        android:id="@+id/nav_calificacion"
+        android:name="com.example.cliente2.CalificacionFragment"
+        android:label="Calificación App"
+        tools:layout="@layout/fragment_calificacion" />
+    <fragment
+        android:id="@+id/nav_publicidad"
+        android:name="com.example.cliente2.PublicidadFragment"
+        android:label="Crea tu anuncio"
+        tools:layout="@layout/fragment_publicidad" />
+    <fragment
+        android:id="@+id/nav_menupublicidad"
+        android:name="com.example.cliente2.MenuPublicidadFragment"
+        android:label="Publicita con Nosotros"
+        tools:layout="@layout/fragment_menu_publicidad" />
+    <fragment
+        android:id="@+id/nav_misanuncios"
+        android:name="com.example.cliente2.MisanunciosFragment"
+        android:label="Mis anuncios"
+        tools:layout="@layout/fragment_misanuncios" />
+    <fragment
+        android:id="@+id/nav_listcategorias"
+        android:name="com.example.cliente2.CategoriaFragment"
+        android:label="Mis anuncios"
+        tools:layout="@layout/fragment_categoria" />
+    <fragment
+        android:id="@+id/nav_menumembresia"
+        android:name="com.example.cliente2.MembresiaFragment"
+        android:label="Membresia"
+        tools:layout="@layout/fragment_membresia" />
+    <fragment
+        android:id="@+id/nav_menupromociones"
+        android:name="com.example.cliente2.PromocionesFragment"
+        android:label="Promociones"
+        tools:layout="@layout/fragment_promociones" />
+</navigation>
